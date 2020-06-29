@@ -1,11 +1,18 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct 27 23:10:09 2019
+# Language 
+    * Python
+    
+# Used:
+        * Numpy
+        * Deep Learning
+        * TensorFlow
+        * Natural Language Processing
+    
 
-@author: ranjitsmac
-"""
 
+* Download dataset from : http://www.statmt.org/europarl/ 
+and keep in project folder.
+
+# Folder Structure
 - run.py                       -all code combine for nlp tasks
 - sample_final.ipynb   - only Nlp task achived files
 - code_copy.pdf         - copy of code of NLP tasks with test cases.
@@ -15,7 +22,8 @@ It will take minimum 10 min to run. Typographic errors + N-gram analysis = More 
 
     
     
-    
+# Test Cases
+
 Test case 1: 
     Biagram --> word from corpus = unetek and recognises = unitek and accuracy is = 0.4444444444444444
 
